@@ -293,7 +293,7 @@ const anshuman = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kenzo78766/kenzo78766/raw/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/kenzo78766/kenzo78766/raw/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/kenzo78766/kenzo78766/raw/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/kenzo78766/kenzo78766/raw/output/github-snake.svg" />
   </picture>
 </div>
 
