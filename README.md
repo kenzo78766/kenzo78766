@@ -1,6 +1,7 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=FB7185&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+writes+clean+and+elegant+code;Compiler%3A+interesting+theory;Browser%3A+emotionally+unavailable;User%3A+why+is+the+screen+white+again;Me%3A+it's+a+feature+😌" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=FB7185&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+writes+clean+and+elegant+code;Compiler%3A+interesting+theory;Browser%3A+emotionally+unavailable;User%3A+why+is+the+white+screen+back;Me%3A+it%27s+a+feature+%F0%9F%98%8C" 
+    alt="Typing SVG"
   />
 </div>
 
@@ -10,7 +11,8 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=4000&pause=1200&color=FB7185&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who+shipped+this+to+production%3F+👀" 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=4000&pause=1200&color=FB7185&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who+shipped+this+to+production%3F+%F0%9F%91%80" 
+    alt="Typing SVG"
   />
 </div>
 
