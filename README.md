@@ -291,9 +291,9 @@ const anshuman = {
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kenzo78766/kenzo78766/output/github-snake-dark.svg?v=1" />
   </picture>
 </div>
 
