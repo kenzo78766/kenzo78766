@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anshuman%20Singh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%203D%20Web%20%7C%20MERN%20Stack&descAlignY=60&descSize=18" width="100%" />
-</div>
+</div> 
 
 <!-- TYPING SVG 1 -->
 <div align="center">
